@@ -1,2 +1,2 @@
 # eann
-Embedded Artificial Neural Network Framework
+Embedded Artificial Neural Network Library
